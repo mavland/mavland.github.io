@@ -2,10 +2,6 @@
 <html>
 <body>
 <h1> Hello World!</h1>
-<hr>
-  size = 8
-  width = 4
-  color = Blue
-  align = center
+<hr style="width:50%;text-align:left;margin-left:0">
 </body>
 </html>

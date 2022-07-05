@@ -11,16 +11,20 @@
 This website is still under construction!
  </p>
   
- <hr style="width:100%;text-align:left;margin-left:0">
+<hr style="width:100%;text-align:left;margin-left:0">
 
 <h4> Projects: </h4>
 <h5>Discontinuous Galerkin, 2021-2022</h5>
 <h5>Star-galaxy separation, 2019-2022</h5>
   
+<hr style="width:100%;text-align:left;margin-left:0">
+  
 <h4> Experience: </h4>
 <h5> Exam proctor for Physics 150 (Physics for the Life Sciences) </h5>
 <h5> Student ambassador for prospective students in the Physics department </h5>
 <h5></h5>
+
+<hr style="width:100%;text-align:left;margin-left:0">
   
 <h4>Teaching:</h4>
   

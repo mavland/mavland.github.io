@@ -26,7 +26,7 @@ This website is still under construction!
 
 <hr style="width:100%;text-align:left;margin-left:0">
   
-<h4>Teaching:</h4>
+
   
 <p> 
   

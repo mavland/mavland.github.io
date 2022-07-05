@@ -14,8 +14,8 @@ This website is still under construction!
  <hr style="width:100%;text-align:left;margin-left:0">
 
 <h4> Projects: </h4>
-<h2>Discontinuous Galerkin, 2021-2022</h2>
-<h2>Star-galaxy separation, 2019-2022</h2>
+<h5>Discontinuous Galerkin, 2021-2022</h5>
+<h5>Star-galaxy separation, 2019-2022</h5>
   
  
   

@@ -2,7 +2,14 @@
 <html>
 <body>
 <h1> mavlandman </h1>
-<hr style="width:100%;text-align:left;margin-left:0">
+  <style>
+        hr {
+            height: 4px;
+            background-color: red;
+            border: none;
+        }
+    </style>
+<hr style="width:100%;color:Aqua;text-align:left;margin-left:0">
 
   
   

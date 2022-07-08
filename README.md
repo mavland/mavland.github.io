@@ -1,9 +1,9 @@
-# mavland.github.io
 <html>
-<body>
+<body style = "background:#7FFFD4">
+
 <h1> mavlandman </h1>
 
-<hr style="width:100%;color:Aqua;text-align:left;margin-left:0">
+
 
   
   

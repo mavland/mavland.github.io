@@ -9,8 +9,7 @@
 
 <div style="background: #EBEAFF; 
             font-size: 16px; 
-            padding: 15px; 
-            
+            padding: 15px;
             margin: 10px;">
 
 

@@ -10,14 +10,11 @@
 <div style = "position:relative;
               left:-320px; top:-20px;
               background-color:#625BB0;
-              width:280px
-              
-              ">
-  * About
+              width:280px">- About
   <hr style="width:100%;text-align:left;margin-left:0">
-  * Projects
+  - Projects
   <hr style="width:100%;text-align:left;margin-left:0">
-  * Contact      
+  - Contact      
             
  </div>           
 

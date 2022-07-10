@@ -10,19 +10,19 @@
 <div style = "position:relative;
               left:-320px; top:-20px;
               background-color:#625BB0;
-              width:280px
+              width:250px
               padding: 15px;
               margin: 10px;">
   sidebar attempt.
-  <hr style="width:100%;text-align:left;margin-left:0">
+  <hr style="width:75%;text-align:left;margin-left:0">
   second line of sidebar
-  <hr style="width:100%;text-align:left;margin-left:0">
+  <hr style="width:75%;text-align:left;margin-left:0">
   third line of sidebar        
             
  </div>           
 
 <div style="position:relative;
-            top:-20px;
+            top:-30px;
             background: #EBEAFF; 
             font-size: 16px; 
             padding: 15px;

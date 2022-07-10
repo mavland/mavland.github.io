@@ -9,7 +9,7 @@
 
 <div style = "position:relative;
               left:-320px; top:-20px;
-              background-color:#C29FCE;
+              background-color:#997DA3;
               width:280px"><hr style="width:100%;text-align:left;margin-left:0">- <a
 href="/about/" style= "color:#89BAFF">About</a>
   <hr style="width:100%;text-align:left;margin-left:0">

@@ -13,11 +13,11 @@
               width:280px
               
               ">
-  sidebar attempt.
+  * About
   <hr style="width:100%;text-align:left;margin-left:0">
-  second line of sidebar
+  * Projects
   <hr style="width:100%;text-align:left;margin-left:0">
-  third line of sidebar        
+  * Contact      
             
  </div>           
 

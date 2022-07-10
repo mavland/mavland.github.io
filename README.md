@@ -10,7 +10,8 @@
 <div style = "position:relative;
               left:-320px; top:-20px;
               background-color:#625BB0;
-              width:280px"><hr style="width:100%;text-align:left;margin-left:0">- About
+              width:280px"><hr style="width:100%;text-align:left;margin-left:0">- <a
+href="/about/">About</a>.
   <hr style="width:100%;text-align:left;margin-left:0">
   - Projects
   <hr style="width:100%;text-align:left;margin-left:0">

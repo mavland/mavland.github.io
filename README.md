@@ -10,7 +10,7 @@
 <div style = "position:relative;
               left:-320px; top:-20px;
               background-color:#625BB0;
-              width:250px
+              width:280px
               
               ">
   sidebar attempt.
@@ -21,7 +21,8 @@
             
  </div>           
 
-<div style="
+<div style="position:relative;
+            top:-30px;
             background: #EBEAFF; 
             font-size: 16px; 
             padding: 15px;

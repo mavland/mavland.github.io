@@ -7,7 +7,7 @@
 
 <h1> mavlandman </h1>
 
-<div style="background: #DDD9FF; 
+<div style="background: #EBEAFF; 
             font-size: 16px; 
             padding: 15px; 
             border: 1px solid lightgray; 
@@ -22,18 +22,29 @@ Hello! I am Michaela Landman, and I am a incoming PhD student at Rensselaer Poly
 This website is still under construction!
                </p>
   
-<hr style="width:100%;text-align:left;margin-left:0">
+<hr style="width:100%;
+text-align:left;
+margin-left:0
+color:#625BB0">
 
 <h4> Projects: </h4>
 <h5>Discontinuous Galerkin, 2021-2022</h5>
 <h5>Star-galaxy separation, 2019-2022</h5>
   
-<hr style="width:100%;text-align:left;margin-left:0">
-  
+<hr style="width:100%;
+text-align:left;
+margin-left:0
+color:#625BB0">
+
 <h4> Experience: </h4>
 <h5> Exam proctor for Physics 150 (Physics for the Life Sciences) </h5>
 <h5> Student ambassador for prospective students in the Physics department </h5>
 <h5></h5>
+
+<hr style="width:100%;
+text-align:left;
+margin-left:0
+color:#625BB0">
 
 <hr style="width:100%;text-align:left;margin-left:0">
   

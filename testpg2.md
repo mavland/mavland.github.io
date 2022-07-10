@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "This page is a test"
-permalink: /testpg/
+permalink: /testp/
 ---
 
 <html>
@@ -10,7 +10,7 @@ permalink: /testpg/
 
 
 <p>
-This is content for my page.
+This is content for my page. I hope it works this time
 </p>
 
 </body>

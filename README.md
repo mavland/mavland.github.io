@@ -1,6 +1,7 @@
 #mavland.github.io
+
 <html>
-<body style = "background:#C4BFF4>
+<body style = "background:#C4BFF4">
 
 <h1> mavlandman </h1>
                             

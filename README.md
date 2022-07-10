@@ -15,11 +15,13 @@
               left:-320px; top:-20px;
               background-color:#625BB0;
               width:280px"><hr style="width:100%;text-align:left;margin-left:0">- <a
-href="/about/" style= "color:red">About</a>.
+href="/about/" style= "color:#89BAFF">About</a>
   <hr style="width:100%;text-align:left;margin-left:0">
-  - Projects
+  - <a
+href="/projects/" style= "color:#89BAFF">Projects</a>
   <hr style="width:100%;text-align:left;margin-left:0">
-  - Contact      
+  - <a
+href="/contact/" style= "color:#89BAFF">Contact</a>   
   <hr style="width:100%;text-align:left;margin-left:0">         
  </div>           
 

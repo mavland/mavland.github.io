@@ -14,9 +14,9 @@
               padding: 15px;
               margin: 10px;">
   sidebar attempt.
-  <hr style="width:75%;text-align:left;margin-left:0">
+  <hr style="width:100%;text-align:left;margin-left:0">
   second line of sidebar
-  <hr style="width:75%;text-align:left;margin-left:0">
+  <hr style="width:100%;text-align:left;margin-left:0">
   third line of sidebar        
             
  </div>           

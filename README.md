@@ -6,6 +6,10 @@
 <body style = "background-image: linear-gradient(180deg, rgba(196,191,244,1) 39%, rgba(244,196,191,1) 96%">
 
 <h1> mavlandman </h1>
+            
+<div style = "position:relative; left:0px; top:2px; background-color:blue;">
+         sidebar attempt.
+      </div>           
 
 <div style="background: #EBEAFF; 
             font-size: 16px; 
@@ -13,6 +17,10 @@
             margin: 10px;">
 
 
+            
+            
+            
+            
                             
 <p>  
                

@@ -7,7 +7,12 @@
 
 <h1> mavlandman </h1>
             
-<div style = "position:relative; left:-320px; top:-20px; background-color:#625BB0; width:280px">
+<div style = "position:relative;
+              left:-320px; top:-20px;
+              background-color:#625BB0;
+              width:280px
+              padding: 15px;
+              margin: 10px;">
   sidebar attempt.
   <hr style="width:75%;text-align:left;margin-left:0">
   second line of sidebar
@@ -16,7 +21,9 @@
             
  </div>           
 
-<div style="background: #EBEAFF; 
+<div style="position:relative;
+            top:-20px;
+            background: #EBEAFF; 
             font-size: 16px; 
             padding: 15px;
             margin: 10px;">
@@ -24,8 +31,7 @@
 
             
             
-            
-            
+                 
                             
 <p>  
                

@@ -7,9 +7,9 @@
 
 <h1> mavlandman </h1>
             
-<div style = "position:relative; left:-310px; top:-10px; background-color:blue;">
-         sidebar attempt.
-      </div>           
+<div style = "position:relative; left:-320px; top:-20px; background-color:#625BB0;">
+  sidebar attempt.
+ </div>           
 
 <div style="background: #EBEAFF; 
             font-size: 16px; 

@@ -35,9 +35,3 @@ This page is under construction! :)
   </html>
 
 
-
-
-<p>
-This page is under construction!
-
-</p>

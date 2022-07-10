@@ -10,7 +10,7 @@
 <div style="background: #EBEAFF; 
             font-size: 16px; 
             padding: 15px; 
-            border: 1px solid lightgray; 
+            
             margin: 10px;">
 
 
@@ -44,7 +44,7 @@ color:#625BB0">
 <hr style="width:100%;
 text-align:left;
 margin-left:0
-color:#625BB0">
+color:#625BB0"></hr>
 
 <hr style="width:100%;text-align:left;margin-left:0">
   

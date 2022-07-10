@@ -3,7 +3,7 @@
 <html>
 
 
-<body style = "background-image: linear-gradient(180deg, rgba(196,191,244,1) 39%, rgba(244,196,191,1) 96%">
+<body style = "background-image: linear-gradient(180deg, rgba(186,221,219,1) 39%, rgba(186,221,202,1) 96%">
 
 <h1> mavlandman </h1>
 
@@ -23,7 +23,7 @@ href="/contact/" style= "color:#A86B9A">Contact</a>
 
 <div style="position:relative;
             top:-240px;
-            background: #EBEAFF; 
+            background: #E6F5F9; 
             font-size: 16px; 
             padding: 15px;
             margin: 10px;">

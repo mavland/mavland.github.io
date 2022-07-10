@@ -9,15 +9,15 @@
 
 <div style = "position:relative;
               left:-320px; top:-20px;
-              background-color:#997DA3;
+              background-color:#E6DCE9;
               width:280px"><hr style="width:100%;text-align:left;margin-left:0">- <a
-href="/about/" style= "color:#89BAFF">About</a>
+href="/about/" style= "color:#A86B9A">About</a>
   <hr style="width:100%;text-align:left;margin-left:0">
   - <a
-href="/projects/" style= "color:#89BAFF">Projects</a>
+href="/projects/" style= "color:#A86B9A">Projects</a>
   <hr style="width:100%;text-align:left;margin-left:0">
   - <a
-href="/contact/" style= "color:#89BAFF">Contact</a>   
+href="/contact/" style= "color:#A86B9A">Contact</a>   
   <hr style="width:100%;text-align:left;margin-left:0">         
  </div>           
 

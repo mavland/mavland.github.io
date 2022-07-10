@@ -36,5 +36,10 @@ This website is still under construction!
 </p>
 
 
+<p style="padding: 10px; border: 2px solid blue;"> This is a sample box </p>
+
+
+
+
 </body>
 </html>

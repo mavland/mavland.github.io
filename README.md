@@ -1,10 +1,23 @@
 <html>
-<body style = "background:#988BC5">
+<body style = "background:#C4BFF4>
 
 <h1> mavlandman </h1>
 
+.box {
+  background-color: #567895;
+}
 
+h2 {
+  background-color: black;
+  color: white;
+}
+span {
+  background-color: rgba(255,255,255,.5);
+}               
 
+<div class="box">
+  <h2>words</h2>
+</div>
   
   
  <p> Hello! I am Michaela Landman, and I am a incoming PhD student at Rensselaer Polytechnic Institute in applied mathematics. I hold a Bachelor's degree from the University of Michigan in mathematics, physics, and complex systems. My primary focus is in the development of numerical methods for solving physical problems. I'm interested in the application of math to scientific computing and physical modeling. I love differential equations, and will talk about them at pretty much any available opportunity. 

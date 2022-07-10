@@ -6,6 +6,14 @@
 <body style = "background-image: linear-gradient(180deg, rgba(196,191,244,1) 39%, rgba(244,196,191,1) 96%">
 
 <h1> mavlandman </h1>
+
+<div style="background: #DDD9FF; 
+            font-size: 16px; 
+            padding: 15px; 
+            border: 1px solid lightgray; 
+            margin: 10px;">
+
+
                             
 <p>  
                
@@ -29,16 +37,16 @@ This website is still under construction!
 
 <hr style="width:100%;text-align:left;margin-left:0">
   
-
+</div>
   
 <p> 
   
 </p>
 
 
-<div style="background: #BFD5F4; 
-            font-size: 20px; 
-            padding: 10px; 
+<div style="background: #DDD9FF; 
+            font-size: 16px; 
+            padding: 15px; 
             border: 1px solid lightgray; 
             margin: 10px;">
   This is a sample box

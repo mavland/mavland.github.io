@@ -14,7 +14,7 @@ permalink: /about/
 
 <div style = "position:relative;
               left:-320px; top:-20px;
-              background-color:#E6DCE9;
+              background-color:#EBEAFF;
               width:280px"><hr style="width:100%;text-align:left;margin-left:0">- <a
 href="/about/" style= "color:#A86B9A">About</a>
   <hr style="width:100%;text-align:left;margin-left:0">

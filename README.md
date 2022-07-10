@@ -76,7 +76,7 @@ background-color:#625BB0">
 </p>
 
 
-<div style="background: #DDD9FF; 
+<div style="background: #E6F5F9; 
             font-size: 16px; 
             padding: 15px; 
             border: 1px solid lightgray; 

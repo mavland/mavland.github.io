@@ -22,7 +22,7 @@
  </div>           
 
 <div style="position:relative;
-            top:-30px;
+            top:-80px;
             background: #EBEAFF; 
             font-size: 16px; 
             padding: 15px;

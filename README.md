@@ -43,7 +43,7 @@ color:#625BB0">
 <hr style="width:100%;
 text-align:left;
 margin-left:0
-border-color:#625BB0">
+background-color:#625BB0">
 
 <hr style="width:100%;text-align:left;margin-left:0">
   

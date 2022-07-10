@@ -7,7 +7,7 @@
 
 <h1> mavlandman </h1>
             
-<div style = "position:relative; left:-1000px; top:-1000px; background-color:blue;">
+<div style = "position:relative; left:-1000px; top:-10px; background-color:blue;">
          sidebar attempt.
       </div>           
 

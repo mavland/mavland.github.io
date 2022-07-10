@@ -3,7 +3,7 @@
 <html>
 
 
-<body style = "background-image: linear-gradient(180deg, rgba(186,221,219,1) 39%, rgba(186,221,202,1) 96%">
+<body style = "background-image: linear-gradient(180deg, rgba(186,221,219,1) 39%, rgba(186,188,221,1) 96%">
 
 <h1> mavlandman </h1>
 

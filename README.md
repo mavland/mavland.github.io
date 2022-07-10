@@ -44,7 +44,7 @@ color:#625BB0">
 <hr style="width:100%;
 text-align:left;
 margin-left:0
-color:#625BB0"></hr>
+border-color:#625BB0">
 
 <hr style="width:100%;text-align:left;margin-left:0">
   

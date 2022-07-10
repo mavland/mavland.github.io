@@ -7,10 +7,12 @@
 
 <h1> mavlandman </h1>
             
-<div style = "position:relative; left:-320px; top:-20px; background-color:#625BB0; width:500px">
+<div style = "position:relative; left:-320px; top:-20px; background-color:#625BB0; width:280px">
   sidebar attempt.
-  <hr style="width:100%;text-align:left;margin-left:0">
+  <hr style="width:75%;text-align:left;margin-left:0">
   second line of sidebar
+  <hr style="width:75%;text-align:left;margin-left:0">
+  third line of sidebar        
             
  </div>           
 

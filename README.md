@@ -22,7 +22,7 @@ href="/contact/" style= "color:#A86B9A">Contact</a>
  </div>           
 
 <div style="position:relative;
-            top:-200px;
+            top:-240px;
             background: #EBEAFF; 
             font-size: 16px; 
             padding: 15px;

@@ -11,8 +11,8 @@
               left:-320px; top:-20px;
               background-color:#625BB0;
               width:250px
-              padding: 15px;
-              margin: 10px;">
+              padding: 7px;
+              ">
   sidebar attempt.
   <hr style="width:75%;text-align:left;margin-left:0">
   second line of sidebar

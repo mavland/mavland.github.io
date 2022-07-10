@@ -26,10 +26,14 @@ href="/contact/" style= "color:#A86B9A">Contact</a>
   <hr style="width:100%;text-align:left;margin-left:0">         
  </div>           
 
-<p>
-This page is under construction! :)
+<div style="background: #E6F5F9; 
+            font-size: 16px; 
+            padding: 15px; 
+            border: 1px solid lightgray; 
+            margin: 10px;">
+  This page is under construction!
+</div>
 
-</p>
 
   </body>
   </html>

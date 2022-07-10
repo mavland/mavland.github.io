@@ -1,7 +1,8 @@
-#mavland.github.io
+
 
 <html>
-<body style = "background:#C4BFF4">
+
+<body style = background-image: linear-gradient(105deg, rgba(0,249,255,1) 39%, rgba(51,56,57,1) 96%>
 
 <h1> mavlandman </h1>
                             

@@ -7,9 +7,24 @@
 
 <h1> mavlandman </h1>
   
+<!--
+<div style = "position:relative;
+              left:-320px; top:-20px;
+              background-color:#E6F5F9;
+              width:280px"><hr style="width:100%;text-align:left;margin-left:0">- <a
+href="/about/" style= "color:#A86B9A">About</a>
+  <hr style="width:100%;text-align:left;margin-left:0">
+  - <a
+href="/projects/" style= "color:#A86B9A">Projects</a>
+  <hr style="width:100%;text-align:left;margin-left:0">
+  - <a
+href="/contact/" style= "color:#A86B9A">Contact</a>   
+  <hr style="width:100%;text-align:left;margin-left:0">         
+ </div>  
+  
+ -->
 
-<div style="position:relative;
-            top:-240px;
+<div style="
             background: #E6F5F9; 
             font-size: 16px; 
             padding: 15px;

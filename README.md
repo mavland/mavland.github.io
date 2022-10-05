@@ -37,7 +37,7 @@ href="/contact/" style= "color:#A86B9A">Contact</a>
                             
 <p>  
                
-Hello! I am Michaela Landman, and I am a incoming PhD student at Rensselaer Polytechnic Institute in applied mathematics. I hold a Bachelor's degree from the University of Michigan in mathematics, physics, and complex systems. My primary focus is in the development of numerical methods for solving physical problems. I'm interested in the application of math to scientific computing and physical modeling. I love differential equations, and will talk about them at pretty much any available opportunity. 
+Hello! I am Michaela Landman, and I am a first year PhD student at Rensselaer Polytechnic Institute in applied mathematics. I hold a Bachelor's degree from the University of Michigan in mathematics, physics, and complex systems. My primary focus is in the development of numerical methods for solving physical problems. I'm interested in the application of math to scientific computing and physical modeling. I love differential equations, and will talk about them at pretty much any available opportunity. 
 
 My resume can be found <a
 href="/MLandmanResume7-5-22.pdf" style= "color:#89BAFF">here</a>.
@@ -53,6 +53,7 @@ color:#625BB0">
 <h4> Projects: </h4>
 <h5>Discontinuous Galerkin, 2021-2022</h5>
 <h5>Star-galaxy separation, 2019-2022</h5>
+
   
 <hr style="width:100%;
 text-align:left;
@@ -60,6 +61,7 @@ margin-left:0
 color:#625BB0">
 
 <h4> Experience: </h4>
+<h5> Current Teaching Assistant for Calculus 1 at Rensselaer Polytechnic Institute </h5>
 <h5> Exam proctor for Physics 150 (Physics for the Life Sciences) </h5>
 <h5> Student ambassador for prospective students in the Physics department </h5>
 <h5></h5>

@@ -50,10 +50,13 @@ text-align:left;
 margin-left:0
 color:#625BB0">
 
-<h4> Projects: </h4>
+<h4> Research Projects: </h4>
 <h5>Discontinuous Galerkin, 2021-2022</h5>
 <h5>Star-galaxy separation, 2019-2022</h5>
 
+<h4> Side Projects: </h4>
+<h5>Dungeons and Dragons coin manager</h5>
+<!-- <h5>Star-galaxy separation, 2019-2022</h5> -->
   
 <hr style="width:100%;
 text-align:left;

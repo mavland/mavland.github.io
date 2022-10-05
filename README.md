@@ -80,14 +80,14 @@ background-color:#625BB0">
 </p>
 
 
-<div style="background: #E6F5F9; 
+<!-- <div style="background: #E6F5F9; 
             font-size: 16px; 
             padding: 15px; 
             border: 1px solid lightgray; 
             margin: 10px;">
   This is a sample box
 </div>
-
+ -->
 
 </body>
 </html>
